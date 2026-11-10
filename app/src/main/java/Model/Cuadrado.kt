@@ -24,12 +24,11 @@ class Cuadrado (var color: Int, var ancho: Int, var alto: Int) {
         ancho = nuevoAncho
         alto = nuevoAlto
     }
-    fun cambiarColor () {
-
-        color = R.color.blue
-
-    }
 
 
 
 }
+
+
+
+
